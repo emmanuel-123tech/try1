@@ -1,0 +1,5 @@
+# Dependencies for enriched analytics, localisation, and UI layers
+numpy
+pandas
+requests
+streamlit

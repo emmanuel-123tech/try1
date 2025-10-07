@@ -1,0 +1,15 @@
+country,region,facility_id,facility_type,catchment_population,staff_count,daily_visits,stockout_rate,functionality_score,electricity_reliability,water_access
+Nigeria,Lagos,LAG001,Clinic,52000,28,210,0.32,0.58,0.76,1
+Nigeria,Kaduna,KAD014,Health Center,34000,14,95,0.48,0.41,0.52,0
+Nigeria,Kano,KAN023,Clinic,47000,19,130,0.36,0.49,0.34,0
+Nigeria,Akwa Ibom,AKW011,Health Post,26000,8,55,0.54,0.31,0.48,0
+Kenya,Nairobi,NBI004,Health Center,38000,24,180,0.27,0.73,0.88,1
+Kenya,Kilifi,KLF009,Dispensary,19000,7,75,0.41,0.56,0.62,0
+Kenya,Kisumu,KSM013,Clinic,25000,11,90,0.33,0.59,0.57,1
+Uganda,Kampala,KMP007,Health Center,30000,16,140,0.22,0.77,0.81,1
+Uganda,Gulu,GUL015,Health Post,21000,9,70,0.39,0.55,0.49,0
+Uganda,Fort Portal,FPO018,Clinic,17000,6,50,0.44,0.47,0.38,0
+South Africa,Gauteng,GAT005,Clinic,60000,32,260,0.18,0.81,0.94,1
+South Africa,Eastern Cape,ECT012,Community Health Center,42000,18,150,0.29,0.68,0.72,1
+South Africa,KwaZulu-Natal,KZN021,Clinic,48000,20,170,0.25,0.65,0.63,1
+South Africa,Limpopo,LIM034,Health Post,23000,9,60,0.37,0.52,0.49,0

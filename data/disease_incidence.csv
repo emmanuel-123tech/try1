@@ -1,0 +1,53 @@
+country,region,month,malaria_cases,respiratory_cases,maternal_complications
+Nigeria,Lagos,2023-01,320,410,38
+Nigeria,Lagos,2023-02,340,420,35
+Nigeria,Lagos,2023-03,360,455,33
+Nigeria,Lagos,2023-04,400,480,36
+Nigeria,Kaduna,2023-01,580,290,45
+Nigeria,Kaduna,2023-02,610,310,47
+Nigeria,Kaduna,2023-03,640,330,48
+Nigeria,Kaduna,2023-04,670,350,50
+Nigeria,Kano,2023-01,720,270,40
+Nigeria,Kano,2023-02,750,285,42
+Nigeria,Kano,2023-03,810,300,43
+Nigeria,Kano,2023-04,860,320,46
+Kenya,Nairobi,2023-01,210,360,28
+Kenya,Nairobi,2023-02,220,375,27
+Kenya,Nairobi,2023-03,240,390,29
+Kenya,Nairobi,2023-04,260,410,30
+Kenya,Kilifi,2023-01,450,220,32
+Kenya,Kilifi,2023-02,470,230,33
+Kenya,Kilifi,2023-03,490,240,34
+Kenya,Kilifi,2023-04,530,250,36
+Kenya,Kisumu,2023-01,380,245,31
+Kenya,Kisumu,2023-02,400,255,32
+Kenya,Kisumu,2023-03,420,265,33
+Kenya,Kisumu,2023-04,450,280,35
+Uganda,Kampala,2023-01,260,310,34
+Uganda,Kampala,2023-02,270,320,33
+Uganda,Kampala,2023-03,280,330,32
+Uganda,Kampala,2023-04,300,340,35
+Uganda,Gulu,2023-01,520,200,37
+Uganda,Gulu,2023-02,540,210,38
+Uganda,Gulu,2023-03,560,220,39
+Uganda,Gulu,2023-04,590,230,41
+Uganda,Fort Portal,2023-01,340,180,29
+Uganda,Fort Portal,2023-02,360,185,30
+Uganda,Fort Portal,2023-03,380,190,31
+Uganda,Fort Portal,2023-04,400,200,33
+South Africa,Gauteng,2023-01,180,520,26
+South Africa,Gauteng,2023-02,190,540,25
+South Africa,Gauteng,2023-03,200,560,24
+South Africa,Gauteng,2023-04,210,580,26
+South Africa,Eastern Cape,2023-01,260,390,29
+South Africa,Eastern Cape,2023-02,270,400,28
+South Africa,Eastern Cape,2023-03,280,420,30
+South Africa,Eastern Cape,2023-04,290,440,31
+South Africa,KwaZulu-Natal,2023-01,300,410,33
+South Africa,KwaZulu-Natal,2023-02,320,430,34
+South Africa,KwaZulu-Natal,2023-03,340,450,35
+South Africa,KwaZulu-Natal,2023-04,360,470,37
+South Africa,Limpopo,2023-01,420,260,32
+South Africa,Limpopo,2023-02,430,270,33
+South Africa,Limpopo,2023-03,440,280,34
+South Africa,Limpopo,2023-04,460,290,36
